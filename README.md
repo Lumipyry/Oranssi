@@ -1,0 +1,2 @@
+# Oranssi
+KDE Plasma väriteema
